@@ -139,6 +139,8 @@ namespace DelegateTest
             }    
             //delegate 
             DataSendEvent(Command.m_doc, Main.m_dataGridView1);
+
+            MessageBox.Show("업데이트완료");
             
         }
     }
