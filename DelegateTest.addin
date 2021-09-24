@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Application DelegateTest</Name>
+    <Assembly>DelegateTest.dll</Assembly>
+    <FullClassName>DelegateTest.App</FullClassName>
+    <ClientId>8A160A7E-D5DD-4F46-A383-05D20400CC26</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
